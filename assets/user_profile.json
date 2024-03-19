@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "image_profile": "assets/img/p1.jpg",
+    "gender": "Male",
+    "status": "Single",
+    "occupation": "Lorem ipsum dolor",
+    "company": "Consectetur adipiscing elit",
+    "education": "Mauris augue massa",
+    "location": "San Francisco, CA",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris augue massa, tincidunt in tristique et, lacinia quis nisi. Suspendisse at elementum turpis."
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "user_id": 2,
+            "username": "George Denise",
+            "image_profile": "assets/img/p2.jpg",
+            "date": "2023-04-05",
+            "type": "image",
+            "content": "Lorem ipsum dolor sit amet, Mauris augue massa.",
+            "image_url": "assets/img/post1.jpg"
+        },
+        {
+            "id": 2,
+            "user_id": 3,
+            "username": "Jane James",
+            "image_profile": "assets/img/p3.jpg",
+            "date": "2023-04-15",
+            "type": "text",
+            "content": "Lorem ipsum dolor sit amet. Mais augue massa elementum turpis. Mauris augue massa, tincidunt in tristique et.",
+            "image_url": ""
+        },
+        {
+            "id": 3,
+            "user_id": 4,
+            "username": "Anne Enfield",
+            "image_profile": "assets/img/p4.jpg",
+            "date": "2023-05-16",
+            "type": "image",
+            "content": "Lorem ipsum dolor sit amet, Mauris augue massa. Suspendisse at elementum turpis.",
+            "image_url": "assets/img/post2.jpg"
+        },
+        {
+            "id": 4,
+            "user_id": 2,
+            "username": "George Denise",
+            "image_profile": "assets/img/p2.jpg",
+            "date": "2023-05-17",
+            "type": "text",
+            "content": "Lorem ipsum dolor sit amet. Mauris augue massa. Mauris augue massa, tincidunt in tristique et.",
+            "image_url": ""
+        }
+    ]
+}

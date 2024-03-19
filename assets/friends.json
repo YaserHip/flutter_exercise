@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "name": "George Denise",
+            "age": 25,
+            "image_profile": "assets/img/p2.jpg",
+            "gender": "Male",
+            "status": "Married",
+            "occupation": "Lorem ipsum dolor",
+            "company": "Consectetur elit",
+            "education": "Mauris massa",
+            "location": "San Francisco, CA",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, tincidunt in tristique et, lacinia quis nisi. Suspendisse at elementum turpis."
+        },
+        {
+            "id": 3,
+            "name": "Jane James",
+            "age": 21,
+            "image_profile": "assets/img/p3.jpg",
+            "gender": "Female",
+            "status": "Single",
+            "occupation": "Ipsum dolor",
+            "company": "Adipiscing elit",
+            "education": "Augue massa",
+            "location": "San Francisco, CA",
+            "bio": "Consectetur adipiscing elit. Mauris augue massa, tincidunt in tristique et, lacinia quis nisi. Suspendisse at elementum turpis."
+        },
+        {
+            "id": 4,
+            "name": "Anne Enfield",
+            "age": 29,
+            "image_profile": "assets/img/p4.jpg",
+            "gender": "Female",
+            "status": "Single",
+            "occupation": "Lorem ipsum",
+            "company": "Consectetur adipiscing",
+            "education": "Mauris augue",
+            "location": "San Francisco, CA",
+            "bio": "Lacinia quis nisi. Suspendisse at elementum turpis."
+        }
+    ]
+}
